@@ -6,9 +6,7 @@ A sleek and simple weather application built with **HTML, CSS, and JavaScript** 
 
 ## 📸 Screenshots
 
-<img src="Weather/images
-/Screenshot 2025-05-31 190920.png
-" alt="Weather App Preview" width="500"/>
+<img src="Weather/images/Screenshot%202025-05-31%20190920.png" alt="Weather App Preview" width="500"/>
 
 
 
