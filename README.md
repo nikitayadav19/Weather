@@ -6,8 +6,10 @@ A sleek and simple weather application built with **HTML, CSS, and JavaScript** 
 
 ## 📸 Screenshots
 
-<img src="images/preview.png" alt="Weather App Preview" width="500"/>
-![image](https://github.com/user-attachments/assets/f7439ae0-8679-470d-9bb3-9c5012041a78)
+<img src="Weather/images
+/Screenshot 2025-05-31 190920.png
+" alt="Weather App Preview" width="500"/>
+
 
 
 ---
